@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "denish",
+      "password": 123456,
+      "rol": 2
+    },
+    {
+      "name": "Denish",
+      "email": "Denish@gmail.com",
+      "password": "Denish@12345",
+      "id": 2,
+      "rol": 1
+    },
+    {
+      "name": "hardik",
+      "email": "hardik@gmail.com",
+      "password": "hardik@123",
+      "rol": 2,
+      "id": 3
+    },
+    {
+      "name": "pradip",
+      "email": "pradipagrawal602@gmail.com",
+      "password": "Fire@2020",
+      "rol": 2,
+      "id": 4
+    },
+    {
+      "name": "Deshank",
+      "email": "Deshank@gmail.com",
+      "password": "dsfsdf",
+      "rol": 2,
+      "id": 5
+    }
+  ]
+}
